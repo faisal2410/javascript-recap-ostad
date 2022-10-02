@@ -13,12 +13,12 @@ const petOwner = {
     }
 };
 
-// console.log(petOwner?.dog?.name);
-console.log(petOwner.cat.name);
-console.log(petOwner.cat.info.color);
-console.log(petOwner.cat?.info?.food?.price);
+// console.log(petOwner.dog.name);
+// console.log(petOwner.cat.name);
+// console.log(petOwner.cat.info.color);
+// console.log(petOwner.cat?.info?.food?.price);
 
-console.log('hello world')
+// console.log('hello world')
 
 
 

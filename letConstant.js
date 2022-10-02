@@ -8,8 +8,8 @@
 // let name = 'HF Consultancy' // re define not possible
 
 
-// const name = "Lead Educare";
-// name = 'Ostad'; // re assign not possible
+// const Name = "Lead Educare";
+// Name = 'Ostad'; // re assign not possible
 // const name = 'HF Consultancy' // re define not possible
 
 

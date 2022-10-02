@@ -4,15 +4,23 @@
 //     // console.log("hello world");
 //     return x * 2;
 // }
+// // const run2=(m)=>m*2
+// const run2=m=>m*2
 
 // const add = (x, y) => x * 2;
 // const add = (x, y) => {
 //     return x + y;
 // };
-const add = (x = 4, y = 1) => {
-    return x + y;
-};
+// const add = (x = 4, y = 1) => {
+//     const z=x+y;
+//     const l=z+5;
+//     const m=(z+l)*2;
+//     return m;
 
+// };
+// const t=add(10,5)
+// const a=t/5;
+// console.log("test",a)
 
 
 // console.log(run(5))
@@ -20,8 +28,9 @@ const add = (x = 4, y = 1) => {
 // console.log(add(8, 7));
 
 // const square = x => x * x
+
 const square = x => {
-    const result = x.map(item => item ** 2)
+    const result = x.map(item => item ** 2+100)
     return result;
 }
 
